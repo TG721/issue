@@ -6,6 +6,7 @@ The homeworks for Quantori JavaScript course.
 
 
 <table style="overflow: hidden">
+    <div>
     <tr>
     <td><div>Homework 1</div></td>
      <td><div>Homework 2</div></td>
@@ -22,4 +23,5 @@ The homeworks for Quantori JavaScript course.
   <tr>
   
   </tr>
+        </div>
  </table>
