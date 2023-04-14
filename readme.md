@@ -15,7 +15,7 @@ The homeworks for Quantori JavaScript course.
     </tr>
     <tr>
     <td>Homework 3</td>
-
+    </tr>
   </tr>
       <td><img src="https://user-images.githubusercontent.com/85778941/231441187-ce87389d-5584-4f05-8402-5806f32a057f.png" width="327"></td>
   <tr>
