@@ -5,7 +5,7 @@ The homeworks for Quantori JavaScript course.
 ## Screenshot
 
 
-<table style="overflow: hidden  !important ">
+<table style="overflow: hidden !important">
     <tr>
     <td>Homework 1</td>
      <td>Homework 2</td>
