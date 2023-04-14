@@ -6,7 +6,7 @@ The homeworks for Quantori JavaScript course.
 
 
 <table >
-    <div style="overflow: hidden">
+    <div style="overflow: scroll">
     <tr>
     <td><div style="overflow: hidden">Homework 1</div></td>
      <td><div style="overflow: hidden">Homework 2</div></td>
