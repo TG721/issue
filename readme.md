@@ -4,12 +4,8 @@ The homeworks for Quantori JavaScript course.
 
 ## Screenshot
 
-<style>
-  table {
-    overflow: hidden;
-  }
-</style>
 
+<link rel="stylesheet" type="text/css" href="style.css">
 <table>
     <tr>
     <td>Homework 1</td>
