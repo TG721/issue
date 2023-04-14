@@ -8,7 +8,6 @@ The homeworks for Quantori JavaScript course.
 <table style="overflow: scroll; display: block" >
     <tr>
     <td>Homework 1</td>
-     <td>Homework 2</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/85778941/225400485-3b644245-ad7a-4017-9c34-3db8f184f5fa.png" width="327"></td>
