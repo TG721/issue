@@ -18,5 +18,5 @@ The homeworks for Quantori JavaScript course.
     </tr>
 
   
-  </tr>
+ 
  </table>
